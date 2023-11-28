@@ -77,8 +77,8 @@ Object and Animal Recognition With Raspberry Pi and OpenCV
 
 8. Download and unzip OpenCV:
     ```bash
-    wget -O opencv.zip https://github.com/opencv/opencv/archive/4.4.1.zip
-    wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.4.1.zip
+    wget -O opencv.zip https://github.com/opencv/opencv/archive/4.4.0.zip
+    wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.4.0.zip
     unzip opencv.zip
     unzip opencv_contrib.zip
     ```
